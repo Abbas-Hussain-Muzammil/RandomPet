@@ -1,5 +1,6 @@
 # RandomPet
-P.S. I had to submit the Lab project as I was not able to fetch the images properly. I didn't quite understand the API docs. Working on it and will come up with something cool.
+
+P.S: I had to submit the Lab project as I was not able to fetch the images properly. I didn't quite understand the API docs. Working on it and will come up with something cool.
 
 # AND101 Project 5 - Choose Your API
 
